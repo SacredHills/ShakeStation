@@ -25,3 +25,5 @@ Options:
 Fetch Raspberry Shake data on any assigned port - use datacast in your Raspberry Shake settings to set your phones IP Address and Port Number, use rs.local or IP and port to connect.
 
 Recommended: A phone or tablet with 4gb ram and 8 core processor 
+
+This App has only been tested with the Raspberry Shake 1D

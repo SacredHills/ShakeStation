@@ -21,3 +21,5 @@ Options:
 *Seismograph Filter from 50hz to 1hz
 
 Fetch Raspberry Shake data on any assigned port - use datacast in your Raspberry Shake settings to set your phones IP Address and Port Number, use rs.local or IP and port to connect.
+
+Recommended: A phone or tablet with 4gb ram and 8 core processor 

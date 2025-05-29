@@ -8,6 +8,8 @@ Android App to display Raspberry Shake Seismograph Data and USGS Earthquake Data
 
 Left Top button is for Screenshots and the Right Top button is the Settings. 
 
+Dragable middle divider to increase size of List and Map or Seismograph and Spectrogram
+
 Options:
 
 *Inferno and JET Colormaps for Spectrogram
